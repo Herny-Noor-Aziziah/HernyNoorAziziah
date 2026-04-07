@@ -77,7 +77,7 @@
     </header>
 
     <div class="container">
-        <h1>Selamat Datang di Website Saya</h1>
+        <h1>Selamat Datang di Website Saya<Halo,perkenalkan nama saya Herny Noor Aziziah. Saya merupakan mahasiswa yang menempuh pendidikan di bidang perikanan>
         <p style="font-size: 1.2rem; margin: 20px 0;">
             Ini adalah website pribadi sederhana yang dibuat dengan HTML & CSS.
         </p>
