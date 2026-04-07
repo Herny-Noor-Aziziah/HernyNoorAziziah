@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Beranda - Nama Saya</title>
+    <title>Beranda - Nama Saya<herny noor aziziah>
     <style>
         * {
             margin: 0;
@@ -66,7 +66,7 @@
 <body>
     <header>
         <nav>
-            <h1>Nama Saya</h1>
+            <h1>Nama Saya<herny noor aziziah>
             <ul>
                 <li><a href="index.html">Beranda</a></li>
                 <li><a href="biodata.html">Biodata</a></li>
